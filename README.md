@@ -5,7 +5,7 @@ This repository contains the implementation, evaluation scripts, and performance
 Dataset:
 
 General
-1. Cifar-10:
+1. CIFAR-10:
    https://docs.pytorch.org/vision/stable/generated/torchvision.datasets.CIFAR10.html
 3. Caltech
 4. 
