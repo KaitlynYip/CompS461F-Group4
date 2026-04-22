@@ -1,2 +1,10 @@
-# Improved Zero-Shot Classification through Efficient CLIP-Based Vision-Language Fusion  
-This repository contains the official implementation, evaluation scripts, and performance logs for our research on a lightweight zero-shot image classification algorithm. By optimizing the CLIP (Contrastive Language-Image Pre-training) architecture, we provide a solution that balances high classification performance with strict computational efficiency.
+The Mvtec Anomaly Detection dataset file are available here on the offical website:  
+https://www.mvtec.com/research-teaching/datasets/mvtec-ad
+
+The pretrained model weights are available here:  
+https://drive.google.com/drive/folders/1FEAmn-eKaiOMvzKPABy6Yh6gLqBxiBTz?usp=sharing
+> The link opens a Google Drive folder: click the file inside to download.
+=======
+COMPS461F-Group4 
+Project Title: Improved Zero-Shot Classification through Efficient CLIP-Based Vision-Language Fusion
+cce838b (Create README.md)
