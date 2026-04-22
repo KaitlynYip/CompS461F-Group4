@@ -8,7 +8,8 @@ General
 1. CIFAR-10:
    https://docs.pytorch.org/vision/stable/generated/torchvision.datasets.CIFAR10.html
 3. Caltech
-4. 
+4. PASCAL VOC 2012:
+   
 
 Industrial(Mvtec Anomaly Detection dataset file is available here on the official website):
 https://www.mvtec.com/research-teaching/datasets/mvtec-ad
