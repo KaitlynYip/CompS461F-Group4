@@ -12,5 +12,6 @@ General
 
 Industrial(Mvtec Anomaly Detection dataset file is available here on the official website):
 https://www.mvtec.com/research-teaching/datasets/mvtec-ad
+
 Medical(covid-chestxray-dataset):
 https://github.com/ieee8023/covid-chestxray-dataset
