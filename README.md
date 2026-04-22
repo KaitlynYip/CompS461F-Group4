@@ -7,4 +7,3 @@ https://drive.google.com/drive/folders/1FEAmn-eKaiOMvzKPABy6Yh6gLqBxiBTz?usp=sha
 =======
 COMPS461F-Group4 
 Project Title: Improved Zero-Shot Classification through Efficient CLIP-Based Vision-Language Fusion
-cce838b (Create README.md)
