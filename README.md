@@ -1,5 +1,5 @@
 The Mvtec Anomaly Detection dataset file are available here:  
-https://drive.google.com/drive/folders/1TX-UeZ3zaKAULfr2a-Vf359z9LPWDJKX?usp=sharing
+https://www.mvtec.com/research-teaching/datasets/mvtec-ad
 
 The pretrained model weights are available here:  
 https://drive.google.com/drive/folders/1FEAmn-eKaiOMvzKPABy6Yh6gLqBxiBTz?usp=sharing
