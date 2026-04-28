@@ -16,3 +16,5 @@ https://www.mvtec.com/research-teaching/datasets/mvtec-ad
 
 Medical(covid-chestxray-dataset):
 https://github.com/ieee8023/covid-chestxray-dataset
+
+You may visit our general field of demo model through this link: https://huggingface.co/spaces/Kaitlyn080544/COMPS461F_Group4_General_Demo
