@@ -7,7 +7,7 @@ Dataset:
 General
 1. CIFAR-10:
    https://docs.pytorch.org/vision/stable/generated/torchvision.datasets.CIFAR10.html
-3. Caltech
+3. Caltech: https://docs.pytorch.org/vision/main/generated/torchvision.datasets.Caltech101.html
 4. PASCAL VOC 2012:
    https://www.robots.ox.ac.uk/~vgg/projects/pascal/VOC/voc2012/
    
