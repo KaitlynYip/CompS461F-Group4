@@ -1,6 +1,7 @@
 # Improved Zero-Shot Classification through Efficient CLIP-Based Vision-Language Fusion  
 This repository contains the implementation, evaluation scripts, and performance logs for our research on a lightweight zero-shot image classification algorithm. By optimizing the CLIP (Contrastive Language-Image Pre-training) architecture, we provide a solution that balances high classification performance with  computational efficiency.
 
+You may visit our general field of demo model through this link: https://huggingface.co/spaces/Kaitlyn080544/COMPS461F_Group4_General_Demo
 
 Dataset:
 
@@ -18,4 +19,3 @@ https://www.mvtec.com/research-teaching/datasets/mvtec-ad
 Medical(covid-chestxray-dataset):
 https://github.com/ieee8023/covid-chestxray-dataset
 
-You may visit our general field of demo model through this link: https://huggingface.co/spaces/Kaitlyn080544/COMPS461F_Group4_General_Demo
