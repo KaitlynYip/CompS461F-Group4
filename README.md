@@ -1,1 +1,1 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KaitlynYip/CompS461F-Group4/blob/General-CifarCaltech-Demo/Demo4_cifar10Caltect.ipynb)
+Open ver5 in Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KaitlynYip/CompS461F-Group4/blob/General-CifarCaltech-Demo/Demo5_cifar10Caltect.ipynb)
