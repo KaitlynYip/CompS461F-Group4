@@ -32,7 +32,7 @@ image_model.eval()
 projection = nn.Linear(384, 768).to(device)
 logit_scale = nn.Parameter(torch.ones([]) * np.log(1 / 0.07))
 
-# --- 2. Load Your Weights ---
+# --- 2. Load Weights ---
 try:
     checkpoint = torch.load(MODEL_PATH, map_location=device)
     
