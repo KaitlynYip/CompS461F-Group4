@@ -19,3 +19,6 @@ https://www.mvtec.com/research-teaching/datasets/mvtec-ad
 Medical(covid-chestxray-dataset):
 https://github.com/ieee8023/covid-chestxray-dataset
 
+
+For more details of our project. [📄 Read our Full Project Report](./COMPS461F_Group4_FinalReport.pdf)
+
